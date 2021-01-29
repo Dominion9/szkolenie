@@ -1,8 +1,9 @@
 #Tytuł
 ##podtytuł
 
-<b>gruby</b>
+<b>gruby czarny kot</b>
 
 dwie dodatkowe linie
 
 dodaje wtedy będzie więcej
+gi
