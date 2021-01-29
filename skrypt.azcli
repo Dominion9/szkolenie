@@ -1,0 +1,3 @@
+azlogin
+az group list -o table
+az group create -n dk01 -l westeurope
